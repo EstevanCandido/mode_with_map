@@ -1,6 +1,6 @@
 # mode_with_map
 
-Sim, é possível escrever uma função que calcule a moda de um conjunto de valores double armazenados em um map. 
+Função que calcule a moda de um conjunto de valores double armazenados em um map. 
 A moda é o valor que aparece com mais frequência em um conjunto de dados.
 
 Uma forma de calcular a moda seria percorrer o map, armazenando a frequência de cada valor em um segundo map chamado frequencia. 
